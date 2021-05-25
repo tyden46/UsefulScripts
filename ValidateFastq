@@ -1,0 +1,2 @@
+#install biopet with conda install biopet
+biopet tool ValidateFastq -i Sample1.fastq -j Sample2.fastq

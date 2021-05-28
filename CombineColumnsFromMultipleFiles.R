@@ -35,4 +35,4 @@ for(x in listOfFiles){
   counter=counter+1
 }
 # And finally we save the file
-write.csv(combinedTable,"PRJNA670209_HERV_Counts.csv",row.names = TRUE,col.names = TRUE,quote=FALSE)
+write.csv(combinedTable,"PRJNA670209_HERV_Counts.csv",row.names = TRUE,quote=FALSE)
